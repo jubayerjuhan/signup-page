@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --primary-red: #101522;
+  --primary-green: hsl(154, 59%, 51%);
+  --primary-green-hover: hsl(154, 81%, 70%);
+  --accent-blue: hsl(248, 32%, 49%);
+  --neutral-white: hsl(0, 0%, 100%);
+  --neutral-dark-blue: hsl(249, 10%, 26%);
+  --neutral-grayish-blue: hsl(246, 25%, 77%);
+}
+
